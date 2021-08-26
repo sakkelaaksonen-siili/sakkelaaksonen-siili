@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sakkelaaksonen-siili
 
 Senior Consultant @ Siili solutions
+
 Frontend & JavaScript
 
 <!---
