@@ -1,8 +1,8 @@
-##👋 Hi, I’m @sakkelaaksonen-siili
+## 👋 Hi, I’m @sakkelaaksonen-siili
 
-Senior Consultant @ Siili solutions
+ * Senior Consultant @ Siili solutions. http://www.siili.com
 
-Frontend & JavaScript
+ * Frontend & JavaScript
 
 <!---
 sakkelaaksonen-siili/sakkelaaksonen-siili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
